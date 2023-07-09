@@ -1,0 +1,36 @@
+body
+{
+    background: url(Spider_Lilli.jpg);
+    background-size: 100%;
+    width: 95%;
+}
+
+h1
+{
+    text-align:end;
+    font-size: 100px;
+    font-family:'Courier New', Courier, monospace;
+    font-style:oblique;
+    font-weight: lighter;
+}
+
+h2
+{
+    font-size: 85px;
+}
+
+p
+{
+    text-align: center;
+}
+
+button
+{
+    height: 50px;
+    width: 85px;
+    font-size: 20px;
+    font-weight: bold;
+    border-style: hidden;
+    background-color: red;
+    color: white;
+}
